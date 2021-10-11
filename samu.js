@@ -1,10 +1,4 @@
-//============ NyanBot ============\\
-// + Favor de mantener este codigo
-//   tal y como esta.
-// + Si modificaras, manten los
-//   creditos:
-//   _MankBarBar & Samu & LolHuman_
-//============ Samu330 ============\\
+//copiabot\\
 const { 
   WAConnection,
   MessageType,
@@ -1005,7 +999,7 @@ const mda = `
 ╒╩════════════
 ╰──────────────╮
 ╭──────────────┴╮
-│ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li🌴
+│copia bot UwU por yordin
 ╰───────────────╯`
 
 const stc = `╭⸻⃞✫꯭𝙈꯭𝙀꯭𝙉꯭𝙐꯭✫⃞⸻╮
@@ -1051,7 +1045,7 @@ const stc = `╭⸻⃞✫꯭𝙈꯭𝙀꯭𝙉꯭𝙐꯭✫⃞⸻╮
 │ _Nombre|Autor_
 ╰─────────────╮
 ╭─────────────╯
-│ *${prefix}colores*
+│ *${prefix}scolor*
 │ _Texto a colores_
 ╰─────────────╮
 ╭─────────────╯
@@ -1067,11 +1061,11 @@ const stc = `╭⸻⃞✫꯭𝙈꯭𝙀꯭𝙉꯭𝙐꯭✫⃞⸻╮
 │ _Stiker a gif_
 ╰─────────────╮
 ╭─────────────┴╮
-│ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li 
+│copia bot UwU por yordin 
 ╰──────────────╯`
-const Menug = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            
+const Menug = `➫copia bot UwU por yordin                                                                           
         🔐Hola *${pushname}*
-    
+    c
 ${bodyM} ${samu}${prefix}antilink${samu}
 ${bodyM} ${samu}${prefix}antimedia${samu}
 ${bodyM} ${samu}${prefix}antibad${samu}
@@ -1093,7 +1087,7 @@ _Para prohibir los links de otros grupos_
     
     
 *Para que el bot entre a tu grupo, usa el siguiente comando:*
-${prefix}entrabot *(Link del grupo)*
+${prefix}entra pendejo *(Link del grupo)*
         
 🚧 *El siguiente comando es para crashear los grupos!! este comando es muy peligroso :) solo administradores pueden usarlo.* 🚧
     
@@ -1129,14 +1123,14 @@ ${bodyM} ${prefix}link
 ${bodyM} ${prefix}top5
 ${bodyM} ${prefix}clonar`
 
-const Menud = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li   
+const Menud = `➫copia bot UwU por yordin 
 
 🔐Hola *${pushname}*
 
 ♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪
 
 ${bodyM} ${prefix}play *(Descarga de musica)*
-${bodyM} ${prefix}playvid *(Descarga de videos por nombre)*
+${bodyM} ${prefix}playv *(Descarga de videos por nombre)*
 ${bodyM} ${prefix}ig *(Fotos y videos de Instagram)*
 ${bodyM} ${prefix}twit *(videos de Twitter)*
 ${bodyM} ${prefix}ytmp3 *(Descarga de musica por link)*
@@ -1146,11 +1140,11 @@ ${bodyM} ${prefix}mfire *(Link de mediafire)*
 ${bodyM} ${prefix}tomp3 *(Videos a audio)*
 ${bodyM} ${prefix}letra *(Busca la letra de una cancion)*`
 
-const Menuo = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                
+const Menuo = `➫copia bot UwU por yordin                                                           
 
 
-${bodyM} ${prefix}grupos *(Ve los grupos del bot)*
-${bodyM} ${prefix}timer *(Cronometro)*
+${bodyM} ${prefix}bot grupos *(Ve los grupos del bot)*
+${bodyM} ${prefix}tiempo *(Cronometro)*
 ${bodyM} ${prefix}calc *(Calculadora)*
 ${bodyM} ${prefix}pregunta *(Haz una pregunta y el bot te responde)*
 ${bodyM} ${prefix}ipbot *(Localiza al bot por ip)*
@@ -1181,13 +1175,13 @@ ${bodyM} ${prefix}blocklist
 ${bodyM} ${prefix}leerimagen
 
 *̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
-	      🌸 SamịPerry.li 🌸
+   🌸 copia bot UwU por yordin 🌸
  ********************************`
- const Menu7 = `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            
+ const Menu7 = `➫copia bot UwU por yordin                                                                           
 
  Si quieres contribuir para que todos estos comandos y mas funcionen ala perfeccion, puedes aportar un granito de arena al sigiente paypal:
  
- paypal.me/samu330
+ paypal.me/yordinBotUwU
  
  
  
@@ -1231,7 +1225,7 @@ ${bodyM} ${prefix}leerimagen
  ${bodyM} ${prefix}cg *(Etiqueta una imagen)*
  
  *̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳*̳̳̳̳̳̳̳̳̳̳
-          🌸 SamịPerry.li 🌸
+     🌸 copia bot UwU por yordin 🌸
   ******************************`
   const Menu8 = `*COMANDOS PARA ${botNumber}*
 
@@ -1254,11 +1248,11 @@ funcionara para llamar al mensaje que te ayudara a obtener el codigo de verifica
 │ _Prohibe el uso del bot a una persona_
 ╰─────────────╮
 ╭─────────────╯
-│ *${prefix}unban*
+│ *${prefix}desbloc*
 │ _Permite el uso del bot a una persona baneada_
 ╰─────────────╮
 ╭─────────────╯
-│ *${prefix}banchat*
+│ *${prefix}blocchat*
 │ _Bloquea el uso del bot en los chats que se active_
 ╰─────────────╮
 ╭─────────────╯
@@ -1270,13 +1264,13 @@ funcionara para llamar al mensaje que te ayudara a obtener el codigo de verifica
 │ _Desbloquea usuarios_
 ╰─────────────╮
 ╭─────────────╯
-│ *${prefix}setname*
+│ *${prefix}camNbr*
 │ _Cambia tu nombre de usuario_
 │
-│ *${prefix}setpic*
+│ *${prefix}ftoperfil*
 │ _Actualiza tu foto de perfil_
 │
-│ *${prefix}setstatus*
+│ *${prefix}cambiaestado*
 │ _Cambia tu estado de WhatsApp_
 ╰─────────────╮
 ╭─────────────╯
@@ -1284,7 +1278,7 @@ funcionara para llamar al mensaje que te ayudara a obtener el codigo de verifica
 │ _Envia un estado de texto_
 ╰─────────────╮
 ╭─────────────╯
-│ *${prefix}estadopic*
+│ *${prefix}estadofto*
 │ _Envia una imagen a tu estado_
 ╰─────────────╮
 ╭─────────────╯
@@ -1352,27 +1346,13 @@ const menu9 = `*${pushname}*
 
 _Estos comandos solo pueden ser utilizados en grupos, y solo los puede uzar ${botNumber}_
 
-🔥 ${prefix}crash
-🔥 ${prefix}crash3
-🔥 ${prefix}crashloc
-🔥 ${prefix}crashcom
-🔥 ${prefix}crashpc
-🔥 ${prefix}crashcatal
-🔥 ${prefix}crashrow
-
-💠Si quieres ser inmune a estos comandos, Samu a creado un WhatsApp que soporta estos bugs, si quieres probar este WhatsApp comunicate con el:
-
-*wa.me/+529984907794*
-
-O bien puedes descargar desde el enlace...
-
-Actualizado!!!
-
-https://www.mediafire.com/file/izd44n2z86tbpem/Nyan_V2.apk/file
-
-Si quieres tener este bot, y usar tu los comandos, ve como se instala aqui:
-
-_https://www.youtube.com/watch?v=rOPBe6O-k3M_`
+🔥 ${prefix}mimidos
+🔥 ${prefix}mimidos2
+🔥 ${prefix}mimiloc
+🔥 ${prefix}mimicom
+🔥 ${prefix}amimirpc
+🔥 ${prefix}mimircatal
+🔥 ${prefix}mimirrow
 
 
 		   
@@ -1452,7 +1432,7 @@ _https://www.youtube.com/watch?v=rOPBe6O-k3M_`
 		}
 
 	    
-	    ///////////////////////FUNCIONES CREADAS POR SAMU330\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+	    ///////////////////////FUNCIONES \\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 	    
 			if (isGroup && botAdmin && isAntiMedia) {     
 			if (!itsMe) {
@@ -1559,9 +1539,9 @@ sendButMessage(from, `*Si no ves la lista de comandos, o no puedes hacer click e
 
 let newmenu = samu330.prepareMessageFromContent(from, {
 "listMessage":  {
-"title": "*✍🏻MENU | 🌬NyanBot | SAMU330🪀*",
-"description": `\n➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li
-🔐Hola *${pushname}* ${timeFt}
+"title": "*✍🏻MENU | 🌬copiabot | yordin*",
+"description": `\ncopia bot UwU por yordin
+🔐Hola bbys *${pushname}* ${timeFt}
 _Tipo de usuario:_ ${tipoDeUsr}
 ┎┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ✨XP: ${getLevelingXp(sender)}
@@ -1577,19 +1557,9 @@ ${samu}◦ ✅version :${samu} *${samu330.browserDescription[2]}*
 ${samu}◦ 🚄Velocidad :${samu} *${process.uptime()}*
 ${samu}◦ 📲Sistema operativo :${samu} *${samu330.user.phone.device_manufacturer}*
 ${samu}◦ 🪀version de${samu} *WhatsApp* : *${samu330.user.phone.wa_version}*
+copia bot UwU por yordin
 
-༶•┈┈⛧┈♛ ♛┈⛧┈┈•༶
 
-*🪀Grupo de Soporte y ayuda:*
-https://chat.whatsapp.com/BGTQNDzESmEJr2cCJlccWV
-
-En el grupo podras aprender a:
-- Crear Bots.
-- Instalar Bots.
-- Editar Bots.
-- Y mucho mas.
-
-🗡NO SE PERMITEN ENLACES!!
 
 ${opcion}`,
 							"buttonText": "Selecciona tu menu",
@@ -1630,8 +1600,8 @@ ${opcion}`,
 											"rowId": "owner"
 										},
 										{
-											"title": `🗡Comandos para explotar Grupos!!💣`,
-											"rowId": "crash"
+											"title": `🗡Comandos para mimir Grupos!💤`,
+											"rowId": "mimir"
 										},
 										{
 											"title": `Audios🎧`,
@@ -1640,10 +1610,7 @@ ${opcion}`,
                                         {
 											"title": `Juegos🎮`,
 											"rowId": "juegos"
-										},
-										{
-											"title": "🍉Creditos y agradecimientos🏹",
-											"rowId": `thanksto`
+									
 										}
 									]
 								}
@@ -1662,7 +1629,7 @@ ${opcion}`,
 			if (sam.message.buttonsResponseMessage){
 				test = sam.message.buttonsResponseMessage.selectedButtonId
 				if (test.includes(`mnan`)){
-				sendButLocation(from, `\n➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li
+				sendButLocation(from, `\n➫copia bot UwU
 🔐Hola *${pushname}* ${timeFt}
 _Tipo de usuario:_ ${tipoDeUsr}
 ┎┈┈┈┈┈┈┈┈┈┈┈┈┈┈
@@ -1816,7 +1783,7 @@ ${samu}◦ 🪀version de${samu} *WhatsApp* : *${samu330.user.phone.wa_version}*
                                     "imageMessage": { 
                                     "mimetype": 
                                     "image/jpeg", 
-                                    "caption": "➫'*👑Samu330 Crashing Groups!!🔥*'\n'😈Samu330 Domina🥀'" ,
+                                    "caption": "➫'*👑coia botUwU mimidos Groups!!🔥*'\n'copia bot te durmio🥀'" ,
                                     "jpegThumbnail": fs.readFileSync(`./src/ara.png`)}}}})
 			}
 			}
@@ -1845,7 +1812,7 @@ var _0x4dab=["\x6C\x69\x73\x74\x52\x65\x73\x70\x6F\x6E\x73\x65\x4D\x65\x73\x73\x
 					"rowId": `${prefix}belle`
 					},
 					{
-					"title": "🍑VIDEO UNICO Y EXCLUSIVO PARA LOS USUARIOS DE NYANBOT👑✍🏻",
+					"title": "🍑VIDEO UNICO Y EXCLUSIVO PARA LOS USUARIOS DE COPIABOT👑✍🏻",
 					"rowId": `VIP`
 					},	
 					{
@@ -1896,10 +1863,10 @@ var _0x4dab=["\x6C\x69\x73\x74\x52\x65\x73\x70\x6F\x6E\x73\x65\x4D\x65\x73\x73\x
 				test = sam.message.listResponseMessage.singleSelectReply.selectedRowId
 				if (test.includes(`juegos`)){
                     reply(`🎮 *Juegos NyanBot* 🍒
-- ${prefix}ttt
+- ${prefix}jugamos
 _TicTacToe_
 
-- ${prefix}lucky
+- ${prefix}fotuna
 _Juego de suerte_
 
 - ${prefix}dados
